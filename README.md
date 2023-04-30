@@ -4,7 +4,7 @@ A smart door face unlocking system using an ESP32DEVKIT, which incorporates face
 ## Circuit Setup
 ### Required Components:
 * ESP32
-* LEDs (Green & Red)
+* LEDs (Green & Red) with a resistor
 * LCD 16x2
 * Breadboard
 * Jumpwires
